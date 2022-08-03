@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Lucas Lopes!👋
+
+I'm currently a Web Development Student preparing my self for a entry level job in the field.
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsplopes/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopes.sp.lucas@gmail.com)
+
+![Lucas Lopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsplopes&show_icons=true&theme=radical)
 
 <!--
 **lsplopes/lsplopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
