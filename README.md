@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Lucas Lopes!👋</h1>
 
-<h3>I'm Full-Stack Web Development Student already looking for a entry level job in Front-End.</h3>
+<h3>I'm Full-Stack Web Development Student looking for a entry level job in Front-End.</h3>
 <br/>
 <span>Bellow you can find some of my available React Projects</span>
 <br/>
