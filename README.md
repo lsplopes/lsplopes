@@ -7,7 +7,7 @@
 <br/>
 <span>
   Click
-  <a href="lsplopes.github.io">here</a>
+  <a href="https://lsplopes.github.io/">here</a>
   to see a little more about me and to see a little from my firsts pure JavaScript project.
 </span>
 <br/>
