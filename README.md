@@ -1,14 +1,19 @@
 <h1>Hi there, my name is Lucas Lopes!👋</h1>
 
-<h3>I'm Full-Stack Web Development Student looking for a entry level job in Front-End.</h3>
+<h3>I'm Full-Stack Web Development Student looking for a entry level job in Front-End where I can develop web applications using React with Redux or Context API.</h3>
 <br/>
+<p>I'm a Civil Engineer, currently studying Back-End in the Full Stack Web Development course at Trybe with the fundamentals and Front-End modules completed, where I developed projects using React, Javascript, bootStrap, Redux, Context API, Jest, RTL, among others.</p>
+
+<p>Among my main characteristics, I like to highlight that I am a ease-learning person, passionate about developing my abilities and solving complex problems that depend on logic, strategy and softskills.</p>
+
+<p>Despite not having work experience in the area of ​​web development, in the Trybe course I had the opportunity to develop several individual and group projects, which gave me experiences with agile methodologies systems using Kanban through Trello, and still good practical experience with Git and GitHub tools.</p>
+
 <span>Bellow you can find some of my available React Projects</span>
 <br/>
 <br/>
 <span>
-  Click
+  In April I developed my first portfolio where I say a little more about me and show some of my firsts HTML/CSS/JavaScript projects, I didn't updated it because I want show my evolution, so if you want to know more about me, click here
   <a href="https://lsplopes.github.io/" target="_blank">here</a>
-  to see a little more about me and to see a little from my firsts pure JavaScript project.
 </span>
 <br/>
 
@@ -17,6 +22,7 @@
 
 <p>Contact me</p>
 <p>E-mail: lopes.sp.lucas@gmail.com</p>
+<p>LinkedIn: https://www.linkedin.com/in/lsplopes/</p>
 
 <div align="center">
   <a href = "mailto:lopes.sp.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
