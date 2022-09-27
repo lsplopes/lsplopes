@@ -26,10 +26,9 @@
 
 <div align="center">
   <a href = "mailto:lopes.sp.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lsplopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-</br>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lsplopes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lsplopes/en?trk=profile-badge">Lucas Lopes - Dev</a></div>
+              
+ </br>
 
 <div align="center">
   <a href="https://github.com/lsplopes">
