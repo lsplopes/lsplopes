@@ -1,14 +1,14 @@
 <h1>Hi there, my name is Lucas Lopes!👋</h1>
 
-<h3>I'm Full-Stack Web Development Student looking for a entry level job in Front-End where I can develop web applications using React with Redux or Context API.</h3>
+<h3>I'm Full-Stack Web Development Student looking for a entry level job as a Full-Stack or Back-End Developer where I will can improve my skills with React with Redux or Context API, RESTfull APIs using Node.JS and MySQL or Mongo.db or even learn another Stack! </h3>
 <br/>
-<p>I'm a Civil Engineer, currently studying Back-End in the Full Stack Web Development course at Trybe with the fundamentals and Front-End modules completed, where I developed projects using React, Javascript, bootStrap, Redux, Context API, Jest, RTL, among others.</p>
+<p>I'm a Civil Engineer, currently studying Back-End in the Full Stack Web Development course at Trybe with the fundamentals and Front-End modules completed, where I developed projects using React, Javascript, bootStrap, Redux, Context API, Jest, RTL, among others. In Back-End I already developed APIS using Node.JS, MySQL and Sequelize.</p>
 
 <p>Among my main characteristics, I like to highlight that I am a ease-learning person, passionate about developing my abilities and solving complex problems that depend on logic, strategy and softskills.</p>
 
-<p>Despite not having work experience in the area of ​​web development, in the Trybe course I had the opportunity to develop several individual and group projects, which gave me experiences with agile methodologies systems using Kanban through Trello, and still good practical experience with Git and GitHub tools.</p>
+<p>Despite not having work experience in the area of web development, in the Trybe course I had the opportunity to develop several individual and group projects, which gave me experiences with agile methodologies systems using Kanban through Trello, and still good practical experience with Git and GitHub tools.</p>
 
-<span>Bellow you can find some of my available React Projects</span>
+<span>Bellow you can find some of my available Projects</span>
 <br/>
 <br/>
 <span>
