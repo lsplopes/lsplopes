@@ -12,7 +12,7 @@
 <p>Meu objetivo atual é ingressar em uma empresa como Desenvolvedor Full Stack.</p>
 
 <h2>En-US</h2>
-<p>I have a degree in engineering and currently migrating to the area of Web Development.</p>
+<h3>I have a degree in engineering and currently migrating to the area of Web Development.</h3>
 <br/>
 <p>I'm a fast learner, completely passionate about solving complex problems/challenges with logic and soft-skills.</p>
 <br/>
