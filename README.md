@@ -1,24 +1,26 @@
 <h1>Olá, me chamo Lucas Lopes!👋</h1>
 
 <h2>PT-BR</h2>
-<h3>Meu objetivo atual é ingressar em uma empresa como Desenvolvedor Full Stack. </h3>
-
-<p>Engenheiro de formação, atualmente estudando desenvolvimento web já com os módulos de fundamentos e Front-End concluídos, onde realizei trabalhos utilizando React, Javascript, bootStrap, Redux, Context API, Jest, RTL, entre outros.</p>
-
-<p>Atualmente estou estudando Back-End, me aprofundando em Docker, MySQL, Node.js, Mongo.db e TypeScript.</p>
-<p>Dentre minhas principais características, gosto de destacar que tenho boas habilidades de comunicação e muita facilidade e paixão em aprender conteúdos novos e por isso, gosto de desafios complexos que dependem de lógica, estratégia e habilidades sociais em grupo.</p>
-<p>Apesar de não ter experiencia de trabalho na área de desenvolvimento web, no curso da Trybe tive a oportunidade de desenvolver vários projetos individuais e em grupo, o que me rendeu experiencias com sistemas de metodologias ágeis utilizando Kanban através do Trello, e ainda boa experiencia prática com as ferramentas de Git e GitHub.</p>
+<h3>Sou formado em engenharia e atualmente migrando para a área de Desenvolvimento Web. </h3>
+<br/>
+<p>Sou uma pessoa que aprende rápido, completamente apaixonada por resolver problemas/desafios complexos com lógica e soft-skills.</p>
+<br/>
+<p>Tenho experiencia com metodologias ágeis como Scrum e Kanban, tenho boas habilidades com comunicação e me sinto muito confortável trabalhando em grupos.</p>
+<br/>
+<p>Acredito que trabalhar em grupos com diversidade é fundamental para enriquecer minha cultura e ampliar meu conhecimento com experiencias e costumes diferentes do meu.</p>
+<br/>
+<p>Meu objetivo atual é ingressar em uma empresa como Desenvolvedor Full Stack.</p>
 
 <h2>En-US</h2>
-<p>I'm Full-Stack Web Development Student looking for a entry level job as a Full-Stack or Back-End Developer where I will can improve my skills with React with Redux or Context API, RESTfull APIs using Node.JS and MySQL or Mongo.db or even learn another Stack! </p>
+<p>I have a degree in engineering and currently migrating to the area of Web Development.</p>
 <br/>
-<p>I'm a Civil Engineer, currently studying Back-End in the Full Stack Web Development course at Trybe with the fundamentals and Front-End modules completed, where I developed projects using React, Javascript, bootStrap, Redux, Context API, Jest, RTL, among others. In Back-End I already developed APIS using Node.JS, MySQL and Sequelize.</p>
-
-<p>Among my main characteristics, I like to highlight that I am a ease-learning person, passionate about developing my abilities and solving complex problems that depend on logic, strategy and softskills.</p>
-
-<p>Despite not having work experience in the area of web development, in the Trybe course I had the opportunity to develop several individual and group projects, which gave me experiences with agile methodologies systems using Kanban through Trello, and still good practical experience with Git and GitHub tools.</p>
-
-<span>Bellow you can find some of my available Projects</span>
+<p>I'm a fast learner, completely passionate about solving complex problems/challenges with logic and soft-skills.</p>
+<br/>
+<p>I have experience with agile methodologies like Scrum and Kanban, have good communication skills and I feel very comfortable working in groups.</p>
+<br/>
+<p>I believe that working in groups with diversity is essential to enrich my culture and expand my knowledge with experiences and customs different from mine.</p>
+<br/>
+<p>My current goal is to join a company as a Full Stack Developer.</p>
 <br/>
 <br/>
 
