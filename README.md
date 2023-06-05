@@ -2,13 +2,13 @@
 ### PT-BR:<br>
 🔭 Atualmente trabalhando como Desenvolvedor Web Full-Stack na Gap Sistemas<br>
 <!-- 🤝 Buscando uma vaga permanente Full-Stack ou Back-End<br> -->
-🌱 Atualmente estudando Ciência da Computação na Trybe<br>
+<!-- 🌱 Atualmente estudando Ciência da Computação na Trybe<br> -->
 <!-- 💬 Me pergunte sobre futurismo e novas tecnologias -->
 
 ### EN:<br>
 🔭 I’m currently working as a Full-Stack Web Developer at Gap Systems<br>
 <!-- 🤝 I’m looking for a permanent job as a Full-Stack or Back-End Web Developer<br> -->
-🌱 I’m currently learning computer science at Trybe<br>
+<!-- 🌱 I’m currently learning computer science at Trybe<br> -->
 <!-- 💬 Ask me about futurism and new technologies -->
 
 
